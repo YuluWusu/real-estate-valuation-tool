@@ -1,5 +1,9 @@
 House Price Prediction AI
+
+
 Introduction
+
+
 This project is an AI-powered real estate valuation tool designed to estimate property prices based on various physical and situational features. By leveraging Machine Learning, the application analyzes historical housing data to provide users with accurate market estimates, helping buyers and sellers make informed decisions.
 
 Core Features
